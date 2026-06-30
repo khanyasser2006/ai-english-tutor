@@ -107,11 +107,3 @@ Open the address shown in your console (usually `http://localhost:5173`) to star
 ## 🎥 Video
 
 https://github.com/user-attachments/assets/c43c6b3c-f8d9-45ab-94f2-c09e148db777
-
-
-
-
-
-
-
-*Video link goes here — see the next message for how to add it.*
